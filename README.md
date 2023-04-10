@@ -1,5 +1,5 @@
 - Hi, I’m @Zumbuddy
-- They/them and it/its
+- it/its primarily
 - made to work on a collaborative game project with my gf
 - not good at coding but I like to make sprite assets
 <!---
